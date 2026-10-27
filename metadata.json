@@ -1,0 +1,8 @@
+{
+  "name": "Python End-Sem Roadmap 3D",
+  "description": "An interactive stylized 3D study roadmap of floating islands for Python end-semester exam preparation, covering Unit I through final revision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
